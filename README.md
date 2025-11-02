@@ -96,3 +96,10 @@ These results indicate a reasonably good fit, suggesting the model can capture t
 - **Scikit-learn** – Machine learning models  
 - **Geopy** – Distance computation  
 - **Jupyter Notebook**
+
+---
+
+## 🏆 Acknowledgement
+
+- This project was completed as part of the Google Data Analytics Professional Certificate on Coursera.
+- Dataset provided - "divvy-tripdata".
